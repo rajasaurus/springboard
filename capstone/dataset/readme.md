@@ -24,6 +24,7 @@ At this time we are primarily interested in reducing the *instances* files which
 *Note `data = json.load(file)`
 
 **instances_train2017.json**
+
 |Interrogation|Response|
 |:-------------------------|:---------------|
 |`type(data)`|`<class 'dict'>`|
