@@ -10,6 +10,7 @@ http://cocodataset.org/#download
 The function of this script is to trim the open source COCO ML datasets to an appropriate size for building a functional model with resource efficiency.  
 
 The pertinent files within the COCO dataset are:
+
 |Filename|Size(bytes)|
 |:-------------------------|---------------:|
 |captions_train2017.json|91865115|
